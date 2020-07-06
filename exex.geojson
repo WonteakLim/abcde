@@ -305,10 +305,7 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "subtype": "dashed",
-                "type": "line_thin"
-            },
+            "properties": null,
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
