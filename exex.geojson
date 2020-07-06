@@ -6,7 +6,6 @@
         {
             "type": "Feature",
             "properties": {
-                "color": "white",
                 "subtype": "dashed",
                 "type": "line_thin"
             },
@@ -27,7 +26,6 @@
         {
             "type": "Feature",
             "properties": {
-                "color": "white",
                 "subtype": "solid",
                 "type": "line_thin"
             },
