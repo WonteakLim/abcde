@@ -89,7 +89,10 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "subtype": "dashed",
+                "type": "line_thin"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -286,7 +289,10 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "subtype": "dashed",
+                "type": "line_thin"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -371,7 +377,10 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "subtype": "dashed",
+                "type": "line_thin"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -484,7 +493,10 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "subtype": "dashed",
+                "type": "line_thin"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -585,7 +597,10 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "subtype": "dashed",
+                "type": "line_thin"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -646,7 +661,10 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "subtype": "dashed",
+                "type": "line_thin"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -927,7 +945,10 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "subtype": "dashed",
+                "type": "line_thin"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -976,7 +997,10 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "subtype": "dashed",
+                "type": "line_thin"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
