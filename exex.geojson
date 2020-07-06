@@ -6,13 +6,9 @@
         {
             "type": "Feature",
             "properties": {
-                "LANETYPE": "111",
-                "LANECODE": "01",
-                "BARRIER": "99",
-                "LNO": "301",
-                "CODE": "1",
-                "DATE": "20180824",
-                "HDUFID": "A1LA18CN000301"
+                "color": "white",
+                "subtype": "dashed",
+                "type": "line_thin"
             },
             "geometry": {
                 "type": "LineString",
@@ -31,13 +27,9 @@
         {
             "type": "Feature",
             "properties": {
-                "LANETYPE": "111",
-                "LANECODE": "01",
-                "BARRIER": "99",
-                "LNO": "301",
-                "CODE": "1",
-                "DATE": "20180824",
-                "HDUFID": "A1LA18CN000301"
+                "color": "white",
+                "subtype": "solid",
+                "type": "line_thin"
             },
             "geometry": {
                 "type": "LineString",
